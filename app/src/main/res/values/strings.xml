@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="secretkey">$2b$10$Lp7zj4F3Un4QTExnLKmi3uZuXmx5gx2hbtoj2nmR8iF75RyVkxQd6</string>
+</resources>
